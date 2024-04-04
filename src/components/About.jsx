@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        I am currently in my 2nd semester pursuing a Bachelor's degree in Mathematics and  Computer Science from Multimedia University. With a keen aspiration to become a Full Stack Developer. My experience primarily lies in frontend development, where I have honed my skills in technologies such as Javascript, React.js and Tailwind CSS to craft visually appealing and highly functional user interfaces. With my versatile skill set and eagerness to learn and grow, I am confident that I can be a valuable asset to any team. Feel free to get in touch to explore how I can contribute to your projects.
+        Currently, I'm in my third year working towards a Bachelor's degree in Mathematics and Computer Science at Multimedia University. My goal is to become a proficient Full Stack Developer. Most of my experience lies in frontend development, where I've polished my abilities using technologies such as Javascript, React.js, and Tailwind CSS to create visually appealing and highly functional interfaces. With my diverse skill set and eagerness to expand my knowledge, I believe I can offer valuable contributions to any team. Please don't hesitate to reach out if you're interested in exploring how I can support your projects.
 
 
         </p>
@@ -22,7 +22,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-        Let's collaborate and build something great together!
+        Let's team up and create something exceptional together!
         </p>
       </div>
     </div>
