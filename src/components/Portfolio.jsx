@@ -2,6 +2,8 @@ import React from "react";
 import Audiophile from "../assets/Audiophile App.png";
 import CountriesApp from "../assets/CountriesApp.png";
 import GitUserApp from "../assets/GitUserApp.png";
+import TodoApp from "../assets/TodoApp.png";
+import PortfolioApp from "../assets/PortfolioApp.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -22,6 +24,18 @@ const Portfolio = () => {
       src: GitUserApp,
       demoLink: "https://github-user-search-app-ten-pearl.vercel.app/",
       codeLink: "https://github.com/obierozipporah/SEARCH-APP.git",
+    },
+    {
+      id: 4,
+      src: TodoApp,
+      demoLink: "https://todo-application-iota-topaz.vercel.app/",
+      codeLink: "https://github.com/obierozipporah/ToDo-App.git",
+    },
+    {
+      id: 5,
+      src: PortfolioApp,
+      demoLink: "https://harmonious-biscotti-3b469a.netlify.app/",
+      codeLink: "https://github.com/obierozipporah/PORTFOLIO.git",
     },
   ];
 
